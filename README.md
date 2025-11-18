@@ -18,8 +18,6 @@ This project was created for the ICT305: Data Visualisation and Simulation cours
 * [Features](#-features)
 * [Technical Stack](#-technical-stack)
 * [How to Run This Project](#-how-to-run-this-project)
-* [Live Demo](#-live-demo)
-* [Team & Acknowledgments](#-team--acknowledgments)
 
 ## 🎯 Project Overview
 
