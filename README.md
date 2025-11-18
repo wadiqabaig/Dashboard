@@ -7,10 +7,7 @@
 
 An interactive web dashboard built with Plotly and Dash that explores the correlation between student lifestyle habits (e.g., sleep, social media use, diet) and their academic performance.
 
-This project was created for the ICT305: Data Visualisation and Simulation course at Murdoch University Dubai.
-
 ![DataTales Dashboard Screenshot](DASHBOARD_SCREENSHOT.png)
-*(**Note:** To make this image appear, take a screenshot of your running dashboard, name the file `DASHBOARD_SCREENSHOT.png`, and add it to your GitHub repository.)*
 
 ## 📖 Table of Contents
 
